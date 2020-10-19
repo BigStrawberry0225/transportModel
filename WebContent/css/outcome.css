@@ -1,0 +1,11 @@
+body {
+	background-color:#ffffff;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+	margin:30px;
+}
+table{
+  width:100%;
+}
