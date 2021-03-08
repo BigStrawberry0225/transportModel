@@ -62,17 +62,17 @@
 
 **（1）服务器端**
 
-​                              ![image-20210308160652825](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308160652825.png)
+​                              ![image-20210308160652825](https://github.com/BigStrawberry0225/transportModel/blob/master/img-folder/image-20210308160652825.png)
 
  
 
 **（2）用户端**
 
- ![image-20210308160705934](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308160705934.png)
+ ![image-20210308160705934](https://github.com/BigStrawberry0225/transportModel/blob/master/img-folder/image-20210308160705934.png)
 
 **（3）数据库方法**
 
- ![image-20210308160710010](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308160710010.png)
+ ![image-20210308160710010](https://github.com/BigStrawberry0225/transportModel/blob/master/img-folder/image-20210308160710010.png)
 
  
 
@@ -82,25 +82,25 @@
 
 （1）起始界面（登录界面）
 
- ![image-20210308160735248](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308160735248.png)
+ ![image-20210308160735248](https://github.com/BigStrawberry0225/transportModel/blob/master/img-folder/image-20210308160735248.png)
 
 该界面为系统的起始界面，起始界面为登录界面，输入用户名和密码点击登录按钮可进入系统功能界面。如果错误会告知你错误。
 
 （2）注册界面
 
- ![image-20210308160748028](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308160748028.png)
+ ![image-20210308160748028](https://github.com/BigStrawberry0225/transportModel/blob/master/img-folder/image-20210308160748028.png)
 
 该界面为用户的注册界面，输入用户名密码注册可以向数据库中加入一个账号。
 
 （3）管理员登录界面
 
- ![image-20210308160757241](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308160757241.png)
+ ![image-20210308160757241](https://github.com/BigStrawberry0225/transportModel/blob/master/img-folder/image-20210308160757241.png)
 
 该界面为管理员系统登录界面，输入管理员密钥，正确可以进入管理界面
 
 （4）管理界面
 
- ![image-20210308160806967](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308160806967.png)
+ ![image-20210308160806967](https://github.com/BigStrawberry0225/transportModel/blob/master/img-folder/image-20210308160806967.png)
 
 该界面为系统的管理界面，可以对信息进行添加删除等，添加可以通过键盘或者文件两种形式进行
 
@@ -108,23 +108,23 @@
 
 （5）查询界面
 
- ![image-20210308160822657](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308160822657.png)
+ ![image-20210308160822657](https://github.com/BigStrawberry0225/transportModel/blob/master/img-folder/image-20210308160822657.png)
 
 该界面为系统的用户查询界面输入查询的相关信息点击查询即可进行查询。
 
 （6）查询结果界面
 
- ![image-20210308160832809](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308160832809.png)
+ ![image-20210308160832809](https://github.com/BigStrawberry0225/transportModel/blob/master/img-folder/image-20210308160832809.png)
 
 该界面为系统的查询结果界面，根据查询界面选择的查询条件返回合适的方案。
 
 **（7）**数据库表设计
 
-   ![image-20210308160852338](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308160852338.png)
+   ![image-20210308160852338](https://github.com/BigStrawberry0225/transportModel/blob/master/img-folder/image-20210308160852338.png)
 
- ![image-20210308160900749](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308160900749.png)
+ ![image-20210308160900749](https://github.com/BigStrawberry0225/transportModel/blob/master/img-folder/image-20210308160900749.png)
 
- ![image-20210308160904759](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210308160904759.png)
+ ![image-20210308160904759](https://github.com/BigStrawberry0225/transportModel/blob/master/img-folder/image-20210308160904759.png)
 
 
 
